@@ -1,11 +1,9 @@
 <!-- Created by using https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">I love exploring UX/UI Design, Building Interfaces, and Building 3D Model / Prototypes!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code4dopamine&label=Profile%20views&color=0e75b6&style=flat" alt="code4dopamine" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+<h3 align="center">I build Full Stack Web Applications!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
